@@ -12,13 +12,27 @@
 }
 .more-suggestions__icons {
   display: flex;
+  justify-content: space-evenly;
 }
 
 .more-suggestions__icon {
-  margin-right: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.more-suggestions__icon:hover {
+  animation: more-suggestions__icon-ani 0.3s ease-in-out forwards;
+}
+
+@keyframes more-suggestions__icon-ani {
+  from {
+    transform: none;
+  }
+
+  to {
+    transform: scale(1.2);
+  }
 }
 
 .more-suggestions__image {

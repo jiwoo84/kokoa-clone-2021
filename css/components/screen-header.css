@@ -13,6 +13,24 @@
   color: var(--yellow);
 }
 
+.screen-header__title:hover {
+  animation: screen-header-ani 0.3s ease-in-out forwards;
+}
+
+.screen-header__icons span i:hover {
+  animation: screen-header-ani 0.3s ease-in-out forwards;
+}
+
+@keyframes screen-header-ani {
+  from {
+    transform: none;
+  }
+
+  to {
+    transform: scale(1.2);
+  }
+}
+
 .screen-header__icons span {
   margin-left: 25px;
   color: var(--yellow);
