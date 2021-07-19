@@ -30,9 +30,14 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  object-fit: cover;
 }
 
 .more-suggestions__image i {
   font-size: 32px;
   color: white;
+}
+
+.more-suggestions__icon-text {
+  text-align: center;
 }
