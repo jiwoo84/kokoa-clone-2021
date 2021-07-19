@@ -10,10 +10,16 @@
 .screen-header__title {
   font-size: 32px;
   font-weight: 600;
+  color: var(--yellow);
 }
 
 .screen-header__icons span {
   margin-left: 25px;
+  color: var(--yellow);
+}
+
+.screen-header__icons span i {
+  color: var(--yellow);
 }
 
 @keyframes rotateCog {

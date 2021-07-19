@@ -53,6 +53,10 @@
   margin-bottom: 10px;
 }
 
+.user-component__time--done {
+  margin-bottom: 25px;
+}
+
 .between-space {
   margin-bottom: 20px;
 }
