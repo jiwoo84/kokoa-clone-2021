@@ -6,14 +6,27 @@
   font-size: 18px;
   margin-bottom: 5px;
   margin-top: -15px;
+  color: #2e363e;
+  animation: attention-ani 1s linear infinite;
+  box-sizing: border-box;
+}
+
+@keyframes attention-ani {
+  0% {
+    transform: none;
+  }
+
+  50% {
+    transform: translateY(3px);
+  }
+
+  100% {
+    transform: none;
+  }
 }
 
 #friends-display-link i {
   color: rgba(0, 0, 0, 0.3);
-}
-
-#friends-display-link {
-  color: #2e363e;
 }
 
 .friends-screen {
