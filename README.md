@@ -1,6 +1,6 @@
 # Kokoa clone coding
 
-2020.6 ~ 2020.7
+2021.6 ~ 2021.7
 
 HTML & CSS
 
