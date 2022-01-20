@@ -1,3 +1,8 @@
-# Kokoa clone 2020 Update
+# Kokoa clone coding
 
-HTML & CSS are so much fun!
+2020.6 ~ 2020.7
+
+HTML & CSS
+
+https://jiwoo84.tistory.com/5
+
