@@ -1,8 +1,8 @@
-# Kokoa clone coding
+# KakaoTalk clone coding
 
-2021.6 ~ 2021.7
+### 기간: 2021.6 ~ 2021.7
 
-HTML & CSS
+### HTML & CSS
 
-https://jiwoo84.tistory.com/5
+
 
